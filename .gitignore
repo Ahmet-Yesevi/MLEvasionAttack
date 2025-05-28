@@ -1,0 +1,4 @@
+# ignore everything in the CMaps folder besides the used files
+CMaps/*
+!CMaps/train_FD001.txt
+!CMaps/test_FD001.txt
