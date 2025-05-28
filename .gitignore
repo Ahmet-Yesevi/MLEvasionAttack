@@ -2,3 +2,4 @@
 CMaps/*
 !CMaps/train_FD001.txt
 !CMaps/test_FD001.txt
+!CMaps/RUL_FD001.txt
